@@ -7,7 +7,7 @@ import java.awt.geom.Line2D;
 /**
  * Dibuja la curva del dragón (fractal de Heighway) de forma recursiva en un panel Swing.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class DragonFractal extends JPanel {
 
